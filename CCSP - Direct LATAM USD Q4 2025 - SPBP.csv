@@ -1,0 +1,510 @@
+SKU,SKU Description,Term,Unit of Measure,Currency,List Price
+MCT2674,"Red Hat Virtualization for Service Providers, Full Support (1 Socket, Multi-Tenant, Monthly)",MONTH,SOCKET,USD,49.5
+MCT2916,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,220
+MCT2916HR,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.01
+MCT2918,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,20
+MCT2963,"Red Hat OpenStack Platform, Diagnostic Support (Dedicated, Yearly)",ANNUAL,SOCKET-PAIR,USD,3810.4
+MCT2964,"Red Hat OpenStack Platform, Diagnostic Support (Dedicated, Monthly)",MONTH,SOCKET-PAIR,USD,346.5
+MCT2965,"Red Hat OpenStack Platform, (without Guest OS), Diagnostic Support (Dedicated, Yearly)",ANNUAL,SOCKET-PAIR,USD,1874.4
+MCT2966,"Red Hat OpenStack Platform, (without Guest OS), Diagnostic Support (Dedicated, Monthly)",MONTH,SOCKET-PAIR,USD,170.5
+MCT2967,"Red Hat OpenStack Platform, (without Guest OS), Diagnostic Support (Multi-Tenant, Monthly)",MONTH,SOCKET,USD,102.3
+MCT3016,"Red Hat OpenShift Container Platform, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,201.3
+MCT3024,"Red Hat Satellite for Service Providers, Full Support (Socket-Pair, Yearly)",ANNUAL,SOCKET-PAIR,USD,173.8
+MCT3025,"Red Hat Satellite for Service Providers, Full Support (Socket-Pair, Monthly)",MONTH,SOCKET-PAIR,USD,15.4
+MCT3026,"Red Hat Satellite for Service Providers, Full Support (Managed Node, Yearly)",ANNUAL,MANAGED NODE,USD,58.3
+MCT3027,"Red Hat Satellite for Service Providers, Full Support (Managed Node, Monthly)",MONTH,MANAGED NODE,USD,5.5
+MCT3577,"Red Hat OpenStack Platform (without Guest OS), Diagnostic Support (Multi-Tenant, Yearly)",ANNUAL,SOCKET,USD,937.2
+MCT3752,"Red Hat Ansible Automation Platform, Full Support (1 Managed Node, Dedicated, Yearly)",ANNUAL,MANAGED NODE,USD,115.5
+MCT3752MO,"Red Hat Ansible Automation Platform, Full Support (1 Managed Node, Dedicated, Monthly)",MONTH,MANAGED NODE,USD,11.55
+MCT3958,"Red Hat Virtualization, Full Support (Socket-Pair, Dedicated, Yearly)",ANNUAL,SOCKET-PAIR,USD,1087.9
+MCT3958MO,"Red Hat Virtualization, Full Support (Socket-Pair, Dedicated, Monthly)",MONTH,SOCKET-PAIR,USD,99
+MCT4020,"Red Hat Advanced Cluster Management for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,660
+MCT4020HR,"Red Hat Advanced Cluster Management for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.187
+MCT4020MO,"Red Hat Advanced Cluster Management for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,66
+MCT4021,"Red Hat Advanced Cluster Management for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,550
+MCT4021HR,"Red Hat Advanced Cluster Management for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.154
+MCT4021MO,"Red Hat Advanced Cluster Management for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,55
+MCT4565,"Red Hat OpenShift AI, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1540
+MCT4565HR,"Red Hat OpenShift AI, Full Support (2 Cores or 4 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.11
+MCT4565MO,"Red Hat OpenShift AI, Full Support (2 Cores or 4 vCPUs, Monthly)",MONTH,CORE BAND,USD,70.587
+MCT4602MO,"Red Hat OpenStack Platform, Diagnostic Support (1 Socket, Multi-Tenant, Monthly)",MONTH,SYSTEM,USD,174.625
+MCT4603,"Red Hat OpenStack Platform, Diagnostic Support (1 Socket, Multi-Tenant, Yearly)",ANNUAL,SYSTEM,USD,1905.2
+MCT4682,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 2, Layered Support (1-2 sockets, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,978
+MCT4682MO,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,90
+MCT4683,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 3, Layered Support (1-2 sockets, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,1076
+MCT4683MO,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 3, Layered Support (1-2 Sockets, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,99
+MCT4685,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 2, Layered Support (1 socket, Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,489
+MCT4685MO,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 2, Layered Support (1 socket, Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,45
+MCT4686,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 3, Layered Support (1 socket, Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,538
+MCT4686MO,"Red Hat OpenStack Platform Extended Life Cycle Support Long-Life Add-On - Term 3, Layered Support (1 socket, Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,49.5
+MCT4688,"Red Hat OpenStack Services on OpenShift, Diagnostic Support (1-2 Sockets, Yearly)",ANNUAL,SYSTEM,USD,1874
+MCT4689MO,"Red Hat OpenStack Services on OpenShift, Diagnostic Support (1-2 Sockets, Monthly)",MONTH,SYSTEM,USD,172
+MCT4733,"Red Hat AI Accelerator, Full Support (1 Accelerator, Dedicated or Multi-Tenant, Yearly)",ANNUAL,AI ACCELERATOR,USD,770
+MCT4734MO,"Red Hat AI Accelerator, Full Support (1 Accelerator, Dedicated or Multi-Tenant, Monthly)",MONTH,AI ACCELERATOR,USD,70.58
+MCT4735HR,"Red Hat AI Accelerator, Full Support (1 Accelerator, Dedicated or Multi-Tenant, Hourly)",HOUR,AI ACCELERATOR,USD,0.11
+MCT4788,"Red Hat OpenShift AI (Bare Metal Node), Full Support (1-2 sockets up to 128 cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,13860
+MCT4799HR,"Red Hat OpenShift AI (Bare Metal Node), Full Support (1-2 sockets up to 128 cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,2.06
+MCT4800MO,"Red Hat OpenShift AI (Bare Metal Node), Full Support (1-2 sockets up to 128 cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1271
+MCT4841HR,"Red Hat AI Inference Server (Physical Node or Virtual Node), Full Support (1 AI Accelerator, Hourly)",HOUR,AI ACCELERATOR,USD,0.166
+MCT4842MO,"Red Hat AI Inference Server (Physical Node or Virtual Node), Full Support (1 AI Accelerator, Monthly)",MONTH,AI ACCELERATOR,USD,102.67
+MCT4843,"Red Hat AI Inference Server (Physical Node or Virtual Node), Full Support (1 AI Accelerator, Yearly)",ANNUAL,AI ACCELERATOR,USD,1120
+MW00226,"Red Hat OpenShift Container Platform, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2640
+MW00226MO,"Red Hat OpenShift Container Platform, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,242
+MW00229,"Red Hat JBoss Enterprise Application Platform, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1155
+MW00229MO,"Red Hat JBoss Enterprise Application Platform, Full Support (2 Cores or 4 vCPUs, Monthly)",MONTH,CORE BAND,USD,127.6
+MW00231,"Red Hat Data Grid, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1155
+MW00233,"Red Hat Fuse, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW00235,"Red Hat AMQ, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW00235MO,"Red Hat AMQ, Full Support (2 Cores or 4 vCPUs, Monthly)",MONTH,CORE BAND,USD,457.6
+MW00253,"Red Hat Fuse Extended Life Cycle Support Add-On, Layered Support (4 Cores or 8 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW00472,"Red Hat OpenShift Container Platform, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2200
+MW00473MO,"Red Hat JBoss Enterprise Application Platform, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,52.8
+MW00474MO,"Red Hat JBoss Enterprise Application Platform Extended Life Cycle Support Add-On, Layered Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,52.9
+MW00475HR,"Red Hat JBoss Enterprise Application Platform, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.088
+MW00476HR,"Red Hat JBoss Enterprise Application Platform Extended Life Cycle Support Add-On, Layered Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.086
+MW00477MO,"Red Hat JBoss Web Server, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,9.922
+MW00479HR,"Red Hat JBoss Web Server, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.022
+MW00481MO,"Red Hat Data Grid, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,52.8
+MW00483HR,"Red Hat Data Grid, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.088
+MW00485MO,"Red Hat AMQ, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,190.3
+MW00487HR,"Red Hat AMQ, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.308
+MW00489MO,"Red Hat Fuse, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,190.3
+MW00491HR,"Red Hat Fuse, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.308
+MW00557MO,"Red Hat 3scale API Management, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,190.3
+MW00667,"Red Hat Runtimes, Full Support (2 cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1155
+MW00670,"Red Hat Integration, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW00679,"Red Hat OpenShift Container Platform with Runtimes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,4235
+MW00679HR,"Red Hat OpenShift Container Platform with Runtimes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.628
+MW00679MO,"Red Hat OpenShift Container Platform with Runtimes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,388.2
+MW00682,"Red Hat OpenShift Container Platform with Application Foundations, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,7238
+MW00682HR,"Red Hat OpenShift Container Platform with Application Foundations, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,1.518
+MW00682MO,"Red Hat OpenShift Container Platform with Application Foundations, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,663.5
+MW00728,"Red Hat JBoss Web Server, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,216.562
+MW00744,"Red Hat Fuse Extended Life Cycle Support Add-On, Layered Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW00762,"Red Hat JBoss Enterprise Application Platform Extended Life Cycle Support Add-On, Layered Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1155
+MW00775MO,"Red Hat Runtimes, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,52.8
+MW00776HR,"Red Hat Integration, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.308
+MW00777MO,"Red Hat Integration, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,190.3
+MW01210,"Red Hat build of OpenJDK for Servers, Full Support (10 Cores or 20 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1386
+MW01211,"Red Hat build of OpenJDK for Servers, Full Support (200 Cores or 400 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,15246
+MW01212,"Red Hat build of OpenJDK for Servers,  Full Support (2, 000 Cores or 4, 000 vCPUs,  Yearly)",ANNUAL,CORE BAND,USD,110880
+MW01218MO,"Red Hat build of OpenJDK for Servers, Full Support (1 Core or 2 vCPUs, Monthly, Billing)",MONTH,CORE BAND,USD,14.3
+MW01220,"Red Hat build of OpenJDK for Workstations, Full Support (50 Physical or Virtual Nodes, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,1386
+MW01221,"Red Hat build of OpenJDK for Workstations,  Full Support (1, 000 Physical or Virtual Nodes,  Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,11550
+MW01222,"Red Hat build of OpenJDK for Workstations,  Full Support (10, 000 Physical or Virtual Nodes,  Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,103950
+MW01228MO,"Red Hat build of OpenJDK for Workstations, Full Support (1 Physical or Virtual Node, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,2.772
+MW01230,"Red Hat Openshift Container Platform for IBM Power, Diagnostic Support (2 cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2200
+MW01230MO,"Red Hat Openshift Container Platform for IBM Power, Diagnostic Support (2 cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,201.3
+MW01233,"Red Hat Openshift Container Platform for IBM Power, Full Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2400
+MW01233MO,"Red Hat Openshift Container Platform for IBM Power, Full Support (2 cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,242
+MW01240HR,"Red Hat OpenShift Container Platform, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.33
+MW01241HR,"Red Hat OpenShift Container Platform, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.396
+MW01380,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Cluster Fee, 1 Cluster, Yearly)",ANNUAL,CLUSTER FEE,USD,202.4
+MW01380HR,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Cluster Fee, 1 Cluster, Hourly)",HOUR,CLUSTER FEE,USD,0.022
+MW01380MO,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Cluster Fee, 1 Cluster, Monthly)",MONTH,CLUSTER FEE,USD,16.5
+MW01381,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Worker Fee, 2 cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,770
+MW01381HR,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Worker Fee, 2 cores or 4 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.132
+MW01381MO,"Red Hat OpenShift for Advanced and Premier Cloud Providers, Diagnostic Support (Worker Fee, 2 cores or 4 vCPUs, Monthly)",MONTH,CORE BAND,USD,95.7
+MW01456,"Red Hat Quay, Full Support (1 Deployment, Dedicated or Multi-Tenant, Yearly)",ANNUAL,DEPLOYMENT,USD,29700
+MW01456HR,"Red Hat Quay, Full Support (1 Deployment, Dedicated or Multi-Tenant, Hourly)",HOUR,DEPLOYMENT,USD,3.388
+MW01456MO,"Red Hat Quay, Full Support (1 Deployment, Dedicated or Multi-Tenant, Monthly)",MONTH,DEPLOYMENT,USD,2475
+MW01457,"Red Hat Quay, Diagnostic Support (1 Deployment, Dedicated or Multi-Tenant, Yearly)",ANNUAL,DEPLOYMENT,USD,24750
+MW01457HR,"Red Hat Quay, Diagnostic Support (1 Deployment, Dedicated or Multi-Tenant, Hourly)",HOUR,DEPLOYMENT,USD,2.816
+MW01457MO,"Red Hat Quay, Diagnostic Support (1 Deployment, Dedicated or Multi-Tenant, Monthly)",MONTH,DEPLOYMENT,USD,2062.5
+MW01474,"Red Hat OpenShift Container Platform, Full Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly, for Windows)",ANNUAL,CORE BAND,USD,396
+MW01633,"Red Hat OpenShift Platform Plus, Full Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,3300
+MW01633HR,"Red Hat OpenShift Platform Plus, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.495
+MW01633MO,"Red Hat OpenShift Platform Plus, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,302.5
+MW01634,"Red Hat OpenShift Platform Plus, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2750
+MW01634HR,"Red Hat OpenShift Platform Plus, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.407
+MW01634MO,"Red Hat OpenShift Platform Plus, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,251.9
+MW01669,"Red Hat Advanced Cluster Security for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,495
+MW01669HR,"Red Hat Advanced Cluster Security for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.132
+MW01669MO,"Red Hat Advanced Cluster Security for Kubernetes, Full Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Monthly)",MONTH,CORE BAND,USD,49.5
+MW01670,"Red Hat Advanced Cluster Security for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,412.5
+MW01670HR,"Red Hat Advanced Cluster Security for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.11
+MW01670MO,"Red Hat Advanced Cluster Security for Kubernetes, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Monthly)",MONTH,CORE BAND,USD,41.8
+MW01711,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,4290
+MW01711HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,1.177
+MW01711MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,429
+MW01712,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,3575
+MW01712HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.979
+MW01712MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced, Diagnostic Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,357.5
+MW01713,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node), Full Support (1-2 sockets up to 64 cores, Yearly)",ANNUAL,PHYSICAL NODE,USD,13200
+MW01714,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node), Diagnostic Support (1-2 sockets up to 64 cores, Yearly)",ANNUAL,PHYSICAL NODE,USD,11000
+MW01992,"Red Hat Application Foundations, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,4158
+MW02004HR,"Red Hat Application Foundations, Full Support (1 core or 2 vCPUS, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.308
+MW02004MO,"Red Hat Application Foundations, Full Support (1 Core or 2 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,190.575
+MW02090,"Red Hat Application Foundations, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2079
+MW02090HR,"Red Hat Application Foundations, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.62
+MW02090MO,"Red Hat Application Foundations, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,381.2
+MW02448,"Red Hat Application Foundations, Cluster Edition, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2079
+MW02448HR,"Red Hat Application Foundations, Cluster Edition, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.154
+MW02448MO,"Red Hat Application Foundations, Cluster Edition, Extended Lifecycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,95.293
+MW02449,"Red Hat Application Foundations, Cluster Edition, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Yearly)",ANNUAL,CORE BAND,USD,2079
+MW02449HR,"Red Hat Application Foundations, Cluster Edition, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.154
+MW02449MO,"Red Hat Application Foundations, Cluster Edition, Full Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,95.293
+MW02461HR,"Red Hat Application Foundations, Cluster Edition, Full Support (1 Core or 2 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.14
+MW02676,"Red Hat build of OpenJDK for Servers, Extended Life Cycle Support Add-On, Full Support (10 Cores or 20 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1386
+MW02677,"Red Hat build of OpenJDK for Servers, Extended Life Cycle Support Add-On, Full Support (200 Cores or 400 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,15246
+MW02678,"Red Hat build of OpenJDK for Servers, Extended Life Cycle Support Add-On, Full Support (2,000 Cores or 4,000 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,110880
+MW02680HR,"Red Hat build of OpenJDK for Servers, Extended Life Cycle Support Add-On, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.022
+MW02681MO,"Red Hat build of OpenJDK for Servers, Extended Life Cycle Support Add-On, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,14.3
+MW02682,"Red Hat build of OpenJDK for Workstations, Extended Life Cycle Support Add-On, Full Support (50 Physical or Virtual Nodes, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,1386
+MW02683,"Red Hat build of OpenJDK for Workstations, Extended Life Cycle Support Add-On, Full Support (1,000 Physical or Virtual Nodes, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,11550
+MW02684,"Red Hat build of OpenJDK for Workstations, Extended Life Cycle Support Add-On, Full Support (10,000 Physical or Virtual Nodes, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,103950
+MW02686HR,"Red Hat build of OpenJDK for Workstations, Extended Life Cycle Support Add-On, Full Support (1 Physical or Virtual Node, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.011
+MW02687MO,"Red Hat build of OpenJDK for Workstations, Extended Life Cycle Support Add-On, Full Support (1 Physical or Virtual Node, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,2.772
+MW03434MO,"Red Hat Advanced Cluster Management for Kubernetes Extended Update Support Long-Life Add-On - Term 1, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,12.6
+MW03435HR,"Red Hat Advanced Cluster Management for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 1, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.02
+MW03436MO,"Red Hat Advanced Cluster Management for Kubernetes Extended Update Support Long-Life Add-On - Term 2, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,25.21
+MW03437HR,"Red Hat Advanced Cluster Management for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.04
+MW03633MO,"Red Hat OpenShift Container Platform Extended Update Support Long-Life Add-On - Term 1, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,50
+MW03634HR,"Red Hat OpenShift Container Platform Extended Update Support Add-On - Long-Life Offering - Additional Term 1, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.08
+MW03635MO,"Red Hat OpenShift Container Platform Extended Update Support Long-Life Add-On - Term 2, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,101
+MW03636HR,"Red Hat OpenShift Container Platform Extended Update Support Add-On - Long-Life Offering - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.16
+MW03662MO,"Red Hat OpenShift Platform Plus Extended Update Support Long-Life Add-On - Term 1, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,50
+MW03663HR,"Red Hat OpenShift Platform Plus Extended Update Support Add-On - Long-Life Offering - Additional Term 1, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.08
+MW03664MO,"Red Hat OpenShift Platform Plus Extended Update Support Long-Life Add-On - Term 2, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,101
+MW03665HR,"Red Hat OpenShift Platform Plus Extended Update Support Add-On - Long-Life Offering - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.16
+MW03774,"Red Hat Developer Hub, Full Support (50 Users, Dedicated or Multi-Tenant, Yearly)",ANNUAL,USER,USD,21000
+MW03775,"Red Hat Developer Hub, Full Support (10 Users, Dedicated or Multi-Tenant, Yearly)",ANNUAL,USER,USD,4200
+MW03810,"Red Hat OpenShift Virtualization Engine (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,1800
+MW03811MO,"Red Hat OpenShift Virtualization Engine (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,165
+MW03812,"Red Hat OpenShift Virtualization Engine (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,1500
+MW03813MO,"Red Hat OpenShift Virtualization Engine (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,137.5
+MW03968MO,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Long-Life Add-On - Term 1, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,12.5
+MW03969HR,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 1, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.03
+MW03970MO,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Long-Life Add-On - Term 2, Layered Support (2 Cores, Monthly)",MONTH,CORE BAND,USD,25
+MW03971HR,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.07
+MW03976MO,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 1, Layered Support (Bare Metal Node, 1-2 sockets, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,37.25
+MW03978MO,"Red Hat Advanced Cluster Security for Kubernetes Extended Update Support Add-On - Long-Life Offering - Additional Term 2, Layered Support (Bare Metal Node, 1-2 sockets, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,74.5
+MW04076MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced Extended Update Support Add-On - Long-Life Add-on - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Monthly)",MONTH,CORE BAND,USD,164
+MW04077HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced Extended Update Support Add-On - Long-Life Add-on - Additional Term 2, Layered Support (2 Cores or 4 vCPUs, Dedicated or Multi-Tenant, Hourly)",HOUR,CORE BAND,USD,0.27
+MW04082MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Add-On - Long-Life Add-on - Additional Term 1, Layered Support (1-2 sockets, Monthly)",MONTH,PHYSICAL NODE,USD,252
+MW04083HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Add-On - Long-Life Add-on - Additional Term 1, Layered Support (1-2 sockets, Hourly)",HOUR,PHYSICAL NODE,USD,0.41
+MW04084MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Add-On - Long-Life Add-on - Additional Term 2, Layered Support (1-2 sockets, Monthly)",MONTH,PHYSICAL NODE,USD,504
+MW04085HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Add-On - Long-Life Add-on - Additional Term 2, Layered Support (1-2 sockets, Hourly)",HOUR,PHYSICAL NODE,USD,0.82
+MW04137,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,1320
+MW04138MO,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,121
+MW04139HR,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,0.2
+MW04140,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,1100
+MW04141MO,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,101
+MW04142HR,"Red Hat Advanced Cluster Management for Virtualization (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,0.17
+MW04237,"Red Hat Single Sign-On, Extended Life Cycle Support Add-On, Full Support (2 Cores or 4 vCPUs, Yearly)",ANNUAL,CORE BAND,USD,1155
+MW04238MO,"Red Hat Single Sign-On, Extended Life Cycle Support Add-On, Full Support (1 Core or 2 vCPUs, Monthly)",MONTH,CORE BAND,USD,52.938
+MW04239HR,"Red Hat Single Sign-On, Extended Life Cycle Support Add-On, Full Support (1 Core or 2 vCPUs, Hourly)",HOUR,CORE BAND,USD,0.09
+MW04361,"Red Hat OpenShift Platform Plus (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,29700
+MW04361HR,"Red Hat OpenShift Platform Plus (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Hourly)",HOUR,PHYSICAL NODE,USD,4.41
+MW04361MO,"Red Hat OpenShift Platform Plus (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,2723
+MW04362,"Red Hat OpenShift Platform Plus (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,24750
+MW04362HR,"Red Hat OpenShift Platform Plus (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Hourly)",HOUR,PHYSICAL NODE,USD,3.67
+MW04362MO,"Red Hat OpenShift Platform Plus (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,2269
+MW04377,"Red Hat OpenShift Container Platform (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,23760
+MW04377HR,"Red Hat OpenShift Container Platform (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Hourly)",HOUR,PHYSICAL NODE,USD,3.53
+MW04377MO,"Red Hat OpenShift Container Platform (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,2178
+MW04378,"Red Hat OpenShift Container Platform (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,19800
+MW04378HR,"Red Hat OpenShift Container Platform (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Hourly)",HOUR,PHYSICAL NODE,USD,2.94
+MW04378MO,"Red Hat OpenShift Container Platform (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1815
+MW04388MO,"Red Hat OpenShift Platform Plus (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,567
+MW04389HR,"Red Hat OpenShift Platform Plus (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,0.92
+MW04390MO,"Red Hat OpenShift Platform Plus (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1134
+MW04391HR,"Red Hat OpenShift Platform Plus (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,1.84
+MW04420MO,"Red Hat OpenShift Container Platform (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,454
+MW04421HR,"Red Hat OpenShift Container Platform (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,0.73
+MW04422MO,"Red Hat OpenShift Container Platform (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,908
+MW04423HR,"Red Hat OpenShift Container Platform (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,1.469
+MW04506,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,4950
+MW04507,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,5940
+MW04518,"Red Hat Advanced Cluster Security for Kubernetes (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,3713
+MW04519,"Red Hat Advanced Cluster Security for Kubernetes (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,4455
+MW04622,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Extended Lifecycle Support Add-On, Layered Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,18711
+MW04623,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Full Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Yearly)",ANNUAL,PHYSICAL NODE,USD,18711
+MW04628MO,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,113.44
+MW04630MO,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,227
+MW04639MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,756
+MW04640HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 1, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,1.22
+MW04641MO,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1513
+MW04642HR,"Red Hat OpenShift Platform Plus with Red Hat OpenShift Data Foundation Advanced (Bare Metal Node) Extended Update Support Long-Life Add-On - Term 2, Layered Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,2.45
+MW04657MO,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,495
+MW04658MO,"Red Hat Advanced Cluster Management for Kubernetes (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,594
+MW04661MO,"Red Hat Advanced Cluster Security for Kubernetes (Bare Metal Node), Diagnostic Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,371
+MW04662MO,"Red Hat Advanced Cluster Security for Kubernetes (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,446
+MW04663HR,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Extended Lifecycle Support Add-On, Layered Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,2.77
+MW04664MO,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Extended Lifecycle Support Add-On, Layered Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1715
+MW04665HR,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Full Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Hourly)",HOUR,PHYSICAL NODE,USD,2.78
+MW04666MO,"Red Hat Application Foundations, Cluster Edition (Bare Metal Node), Full Support (1-2 Sockets up to 128 cores, Dedicated or Multi-Tenant, Monthly)",MONTH,PHYSICAL NODE,USD,1715
+MW04812,"Red Hat OpenShift Data Foundation Advanced Upgrade for OpenShift Platform Plus (Bare Metal Node), Full Support (1-2 Sockets up to 128 Cores, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,9900
+RH00232,"Red Hat Enterprise Linux Server for Service Providers, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,943.8
+RH00232HR,"Red Hat Enterprise Linux Server, Full Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.143
+RH00233,"Red Hat Enterprise Linux Server for Virtual Datacenters for Service Providers, Full Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,2904
+RH00234,"Red Hat Enterprise Linux Server for Service Providers, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,85.8
+RH00235,"Red Hat Enterprise Linux Server for Virtual Datacenters for Service Providers, Full Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,264
+RH00236,"Red Hat Enterprise Linux Server for Service Providers, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,786.5
+RH00236HR,"Red Hat Enterprise Linux Server, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.121
+RH00237,"Red Hat Enterprise Linux Server for Virtual Datacenters for Service Providers, Diagnostic Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,2420
+RH00238,"Red Hat Enterprise Linux Server for Service Providers, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,71.5
+RH00239,"Red Hat Enterprise Linux Server for Virtual Datacenters for Service Providers, Diagnostic Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,220
+RH00360,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,34.95
+RH00361,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Unlimited Guests, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,109.95
+RH00385,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,242
+RH00385MO,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,22
+RH00386,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (Unlimited Guests, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,753.5
+RH00386MO,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (Unlimited Guests, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,69.3
+RH00387,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,484
+RH00387MO,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,44
+RH00388,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Unlimited Guests, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,1510.3
+RH00388MO,"Red Hat Enterprise Linux, Resilient Storage Add-On, Layered Support (Unlimited Guests, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,137.5
+RH00536,"Red Hat Enterprise Linux for SAP Applications for Service Providers, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,786.5
+RH00536MO,"Red Hat Enterprise Linux for SAP Applications for Service Providers, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,71.5
+RH00537,"Red Hat Enterprise Linux for Virtual Datacenters for SAP Applications for Service Providers, Diagnostic Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,2420
+RH00537MO,"Red Hat Enterprise Linux for Virtual Datacenters for SAP Applications for Service Providers, Diagnostic Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,220
+RH00538,"Red Hat Enterprise Linux for SAP Applications for Service Providers, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,943.8
+RH00538MO,"Red Hat Enterprise Linux for SAP Applications for Service Providers, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,85.8
+RH00539,"Red Hat Enterprise Linux for Virtual Datacenters for SAP Applications for Service Providers, Full Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,2904
+RH00539MO,"Red Hat Enterprise Linux for Virtual Datacenters for SAP Applications for Service Providers, Full Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,264
+RH00776,"Red Hat Enterprise Linux Extended Life Cycle Support for IBM Z and IBM LinuxONE, Layered Support (IFL, Dedicated, Yearly)",ANNUAL,IFL,USD,5147.48
+RH00776MO,"Red Hat Enterprise Linux Extended Life Cycle Support for IBM Z and IBM LinuxONE, Layered Support (IFL, Dedicated, Monthly)",MONTH,IFL,USD,494.95
+RH00777,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,363.48
+RH00777HR,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.053
+RH00778,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Unlimited Guests, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,1143.48
+RH00778HR,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (Unlimited Guests, Dedicated, Hourly)",HOUR,PHYSICAL NODE,USD,0.168
+RH01888MO,"Red Hat OpenStack Platform Extended Life Cycle Support Add-On - Long-Life Offering - Additional Term 1, Layered Support  (1-2 sockets, Dedicated, Monthly)",MONTH,SOCKET-PAIR,USD,53.9
+RH01889MO,"Red Hat OpenStack Platform Extended Life Cycle Support Add-On - Long-Life Offering - Additional Term 1, Layered Support  (1 socket, Multi-Tenant, Monthly)",MONTH,SOCKET,USD,31.9
+RH01894,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,1559.8
+RH01894MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,141.9
+RH01895,"Red Hat Enterprise Linux for Virtual Datacenters for SAP with High Availability and Update Services, Full Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,4935.7
+RH01895MO,"Red Hat Enterprise Linux for Virtual Datacenters for SAP with High Availability and Update Services, Full Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,448.8
+RH01896,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,1300.2
+RH01896HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,SOCKET-PAIR,USD,0.088
+RH01896MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,117.7
+RH01897,"Red Hat Enterprise Linux for Virtual Datacenters for SAP with High Availability and Update Services, Diagnostic Support (Physical Node, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE,USD,4112.9
+RH01897MO,"Red Hat Enterprise Linux for Virtual Datacenters for SAP with High Availability and Update Services, Diagnostic Support (Physical Node, Dedicated, Monthly)",MONTH,PHYSICAL NODE,USD,374
+RH01909,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,CORE BAND,USD,543.4
+RH01909HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.055
+RH01909MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,CORE BAND,USD,49.5
+RH01944,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,315.7
+RH01944HR,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.055
+RH01944MO,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,28.6
+RH01945,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,262.9
+RH01945HR,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.044
+RH01945MO,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,24.2
+RH01946,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,CORE BAND,USD,652.3
+RH01946HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.066
+RH01946MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,CORE BAND,USD,59.4
+RH01947,"Red Hat Enterprise Linux for SAP Applications for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,CORE BAND,USD,257.4
+RH01947MO,"Red Hat Enterprise Linux for SAP Applications for IBM Power, LE, Diagnostic Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,CORE BAND,USD,23.1
+RH01948,"Red Hat Enterprise Linux for SAP Applications for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Yearly)",ANNUAL,CORE BAND,USD,281
+RH01948MO,"Red Hat Enterprise Linux for SAP Applications for IBM Power, LE, Full Support (4 Cores, Up to 4 LPARs, Dedicated, Monthly)",MONTH,CORE BAND,USD,28.6
+RH02214,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Diagnostic Support (IFL, Dedicated, Yearly)",ANNUAL,IFL,USD,6292
+RH02214HR,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Diagnostic Support (IFL, Dedicated, Hourly)",HOUR,IFL,USD,0.925
+RH02214MO,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Diagnostic Support (IFL, Dedicated, Monthly)",MONTH,IFL,USD,605
+RH02215,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Full Support (IFL, Dedicated, Yearly)",ANNUAL,IFL,USD,7550.4
+RH02215HR,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Full Support (IFL, Dedicated, Hourly)",HOUR,IFL,USD,1.111
+RH02215MO,"Red Hat Enterprise Linux for IBM Z and IBM LinuxONE with Comprehensive Add-Ons, Full Support (IFL, Dedicated, Monthly)",MONTH,IFL,USD,726
+RH02223,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Scale out, Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,239
+RH02223HR,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Scale out, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.03
+RH02223MO,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Scale out, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,22
+RH02224,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Scale out, Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,287
+RH02224HR,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Scale out, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.04
+RH02224MO,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Scale out, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,26
+RH02225,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Scale Out Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,382.105
+RH02225HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Scale out, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.05
+RH02225MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Scale Out, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,33
+RH02226,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Scale Out Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,302
+RH02226HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Scale out, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.04
+RH02226MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Scale Out, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,27
+RH02227,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Enterprise, Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,798
+RH02227HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Enterprise, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.11
+RH02227MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Full Support (1 Core, Enterprise Multi-tenant, Monthly)",MONTH,CORE BAND,USD,73
+RH02228,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Enterprise Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,665
+RH02228HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Enterprise, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.09
+RH02228MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services for IBM Power, LE, Diagnostic Support (1 Core, Enterprise, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,60
+RH02229,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Enterprise, Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,526
+RH02229HR,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Enterprise, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.07
+RH02229MO,"Red Hat Enterprise Linux for IBM Power, LE, Diagnostic Support (1 Core, Enterprise, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,48
+RH02230,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Enterprise, Multi-tenant, Yearly)",ANNUAL,CORE BAND,USD,632
+RH02230HR,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Enterprise, Multi-tenant, Hourly)",HOUR,CORE BAND,USD,0.09
+RH02230MO,"Red Hat Enterprise Linux for IBM Power, LE, Full Support (1 Core, Enterprise, Multi-tenant, Monthly)",MONTH,CORE BAND,USD,57
+RH02605,"Red Hat Enterprise Linux Server for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,943.8
+RH02605HR,"Red Hat Enterprise Linux Server for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.143
+RH02605MO,"Red Hat Enterprise Linux Server for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,85.8
+RH02606,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,786.5
+RH02606HR,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.121
+RH02606MO,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,71.5
+RH02647,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,325.6
+RH02647HR,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.044
+RH02647MO,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,29.7
+RH02648,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,271.7
+RH02648HR,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.033
+RH02648MO,"Red Hat Enterprise Linux Server for HPC Compute Node for ARM, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,24.2
+RH02649,"Red Hat Enterprise Linux Server for HPC Compute Node, Full Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,325.6
+RH02649HR,"Red Hat Enterprise Linux Server for HPC Compute Node, Full Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.044
+RH02649MO,"Red Hat Enterprise Linux Server for HPC Compute Node, Full Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,29.7
+RH02650,"Red Hat Enterprise Linux Server for HPC Compute Node, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Yearly)",ANNUAL,PHYSICAL NODE OR VIRTUAL NODE,USD,271.7
+RH02650HR,"Red Hat Enterprise Linux Server for HPC Compute Node, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Hourly)",HOUR,PHYSICAL NODE OR VIRTUAL NODE,USD,0.033
+RH02650MO,"Red Hat Enterprise Linux Server for HPC Compute Node, Diagnostic Support (Physical or Virtual Nodes, Dedicated, Monthly)",MONTH,PHYSICAL NODE OR VIRTUAL NODE,USD,24.2
+RH02823,"Red Hat Enterprise Linux Server, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,101.322
+RH02823HR,"Red Hat Enterprise Linux Server, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.015
+RH02823MO,"Red Hat Enterprise Linux Server, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,9.743
+RH02824,"Red Hat Enterprise Linux Server, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,75.992
+RH02824HR,"Red Hat Enterprise Linux Server, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.011
+RH02824MO,"Red Hat Enterprise Linux Server, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,7.307
+RH02825,"Red Hat Enterprise Linux Server, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,65.859
+RH02825HR,"Red Hat Enterprise Linux Server, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.01
+RH02825MO,"Red Hat Enterprise Linux Server, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,6.333
+RH02826,"Red Hat Enterprise Linux Server, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,84.435
+RH02826HR,"Red Hat Enterprise Linux Server, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.012
+RH02826MO,"Red Hat Enterprise Linux Server, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,8.119
+RH02827,"Red Hat Enterprise Linux Server, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,63.326
+RH02827HR,"Red Hat Enterprise Linux Server, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.009
+RH02827MO,"Red Hat Enterprise Linux Server, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,6.089
+RH02828,"Red Hat Enterprise Linux Server, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,54.883
+RH02828HR,"Red Hat Enterprise Linux Server, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.008
+RH02828MO,"Red Hat Enterprise Linux Server, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,5.277
+RH02829,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,146.515
+RH02829HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.022
+RH02829MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,14.088
+RH02830,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,109.886
+RH02830HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.016
+RH02830MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,10.566
+RH02831,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,95.235
+RH02831HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.014
+RH02831MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,9.157
+RH02832,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,122.096
+RH02832HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.018
+RH02832MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (1 to 8 for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,11.74
+RH02833,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,91.572
+RH02833HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.013
+RH02833MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (9 to 127 for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,8.805
+RH02834,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,79.362
+RH02834HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.012
+RH02834MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (128 to unlimited for each vCPU per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,7.631
+RH02835,"Red Hat Enterprise Linux Server for ARM, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,101.322
+RH02835HR,"Red Hat Enterprise Linux Server for ARM, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.015
+RH02835MO,"Red Hat Enterprise Linux Server for ARM, Full Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,9.743
+RH02836,"Red Hat Enterprise Linux Server for ARM, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,75.992
+RH02836HR,"Red Hat Enterprise Linux Server for ARM, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.011
+RH02836MO,"Red Hat Enterprise Linux Server for ARM, Full Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,7.307
+RH02837,"Red Hat Enterprise Linux Server for ARM, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,65.859
+RH02837HR,"Red Hat Enterprise Linux Server for ARM, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.01
+RH02837MO,"Red Hat Enterprise Linux Server for ARM, Full Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,6.333
+RH02838,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,84.435
+RH02838HR,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.012
+RH02838MO,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,8.119
+RH02839,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,63.326
+RH02839HR,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support 9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.009
+RH02839MO,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,6.089
+RH02840,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,54.883
+RH02840HR,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.008
+RH02840MO,"Red Hat Enterprise Linux Server for ARM, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,5.28
+RH02841,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,84.435
+RH02841HR,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.012
+RH02841MO,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,8.119
+RH02842,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,63.326
+RH02842HR,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.009
+RH02842MO,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,6.089
+RH02843,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,54.883
+RH02843HR,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.008
+RH02843MO,"Red Hat Enterprise Linux for SAP Applications, Diagnostic Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,5.277
+RH02844,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,25.935
+RH02844HR,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.005
+RH02844MO,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,2.993
+RH02845,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,19.451
+RH02845HR,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.004
+RH02845MO,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,2.244
+RH02846,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,16.858
+RH02846HR,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.003
+RH02846MO,"Red Hat Enterprise Linux, High Availability Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,1.945
+RH02847,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,45.435
+RH02847HR,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.007
+RH02847MO,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (1 to 8 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,4.369
+RH02848,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,34.076
+RH02848HR,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (9 to 127 vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.005
+RH02848MO,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support 9 to 127 vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,3.277
+RH02849,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,29.533
+RH02849HR,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.004
+RH02849MO,"Red Hat Enterprise Linux, Extended Life Cycle Support Add-On, Layered Support (128 to unlimited vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,2.84
+RH02996,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,3516.365
+RH02996HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.517
+RH02996MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Full Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,338.112
+RH02997,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Yearly)",ANNUAL,VIRTUAL NODE,USD,2930.304
+RH02997HR,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Hourly)",HOUR,VIRTUAL NODE,USD,0.431
+RH02997MO,"Red Hat Enterprise Linux for SAP with High Availability and Update Services, Diagnostic Support (32 or more vCPUs per Virtual Node, Multi-Tenant, Monthly)",MONTH,VIRTUAL NODE,USD,281.76
+RS00090MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 256TB, Monthly)",MONTH,STORAGE BAND,USD,1664.3
+RS00091MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 512TB, Monthly)",MONTH,STORAGE BAND,USD,3105.3
+RS00092MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1PB, Monthly)",MONTH,STORAGE BAND,USD,5546.2
+RS00093MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 2PB, Monthly)",MONTH,STORAGE BAND,USD,10814.1
+RS00094MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 3PB, Monthly)",MONTH,STORAGE BAND,USD,15805.9
+RS00095MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 4PB, Monthly)",MONTH,STORAGE BAND,USD,20519.4
+RS00096MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 5PB, Monthly)",MONTH,STORAGE BAND,USD,24956.8
+RS00291,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1PB, Yearly)",ANNUAL,STORAGE BAND,USD,60500
+RS00291MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1PB, Monthly)",MONTH,STORAGE BAND,USD,5546.2
+RS00292,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.2 PB, Yearly)",ANNUAL,STORAGE BAND,USD,72600
+RS00292MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.2 PB, Monthly)",MONTH,STORAGE BAND,USD,6655
+RS00293,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.4 PB, Yearly)",ANNUAL,STORAGE BAND,USD,84700
+RS00293MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.4 PB, Monthly)",MONTH,STORAGE BAND,USD,7763.8
+RS00294,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.6 PB, Yearly)",ANNUAL,STORAGE BAND,USD,96800
+RS00294MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.6 PB, Monthly)",MONTH,STORAGE BAND,USD,8873.7
+RS00295,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.8 PB, Yearly)",ANNUAL,STORAGE BAND,USD,108900
+RS00295MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Diagnostic Support (Up to 1.8 PB, Monthly)",MONTH,STORAGE BAND,USD,9982.5
+RS00296,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1PB, Yearly)",ANNUAL,STORAGE BAND,USD,79557.5
+RS00296MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1PB, Monthly)",MONTH,STORAGE BAND,USD,7293
+RS00297,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.2 PB, Yearly)",ANNUAL,STORAGE BAND,USD,95469
+RS00297MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.2 PB, Monthly)",MONTH,STORAGE BAND,USD,8751.6
+RS00298,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.4 PB, Yearly)",ANNUAL,STORAGE BAND,USD,111380.5
+RS00298MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.4 PB, Monthly)",MONTH,STORAGE BAND,USD,10210.2
+RS00299,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.6 PB, Yearly)",ANNUAL,STORAGE BAND,USD,127292
+RS00299MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.6 PB, Monthly)",MONTH,STORAGE BAND,USD,11668.8
+RS00300,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.8 PB, Yearly)",ANNUAL,STORAGE BAND,USD,143203.5
+RS00300MO,"Red Hat Ceph Storage Add-on for Red Hat OpenStack Platform, Full Support (Up to 1.8 PB, Monthly)",MONTH,STORAGE BAND,USD,13127.4
+RS00455,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 256TB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,11250
+RS00455HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 256TB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,3.08
+RS00455MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 256TB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,1125
+RS00456,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 256TB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,13500
+RS00456HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 256TB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,3.7
+RS00456MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 256TB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,1350
+RS00457,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 512TB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,21000
+RS00457HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 512TB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,5.75
+RS00457MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 512TB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,2100
+RS00458,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 512TB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,25200
+RS00458HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 512TB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,6.9
+RS00458MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 512TB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,2520
+RS00459,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 1PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,37500
+RS00459HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 1PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,10.27
+RS00459MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 1PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,3750
+RS00460,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 1PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,45000
+RS00460HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 1PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,12.33
+RS00460MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 1PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,4500
+RS00461,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 2PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,73125
+RS00461HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 2PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,20.03
+RS00461MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 2PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,7313
+RS00462,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 2PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,87750
+RS00462HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 2PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,24.04
+RS00462MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 2PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,8775
+RS00463,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 3PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,106875
+RS00463HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 3PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,29.28
+RS00463MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 3PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,10688
+RS00464,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 3PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,128250
+RS00464HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 3PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,35014
+RS00464MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 3PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,12825
+RS00465,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support, (Capacity Expansion Pack, 4PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,138750
+RS00465HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support, (Capacity Expansion Pack, 4PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,38.01
+RS00465MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support, (Capacity Expansion Pack, 4PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,13875
+RS00466,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support, (Capacity Expansion Pack, 4PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,166500
+RS00466HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support, (Capacity Expansion Pack, 4PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,45.62
+RS00466MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support, (Capacity Expansion Pack, 4PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,16650
+RS00467,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 5PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,168750
+RS00467HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 5PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,46.23
+RS00467MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 5PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,16875
+RS00468,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 5PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,202500
+RS00468HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 5PB, Dedicated, Hourly",HOUR,STORAGE BAND,USD,55.48
+RS00468MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 5PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,20250
+RS00469,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 10PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,326250
+RS00469HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 10PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,89.38
+RS00469MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Diagnostic Support (Capacity Expansion Pack, 10PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,32625
+RS00470,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 10PB, Dedicated, Yearly)",ANNUAL,STORAGE BAND,USD,391500
+RS00470HR,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 10PB, Dedicated, Hourly)",HOUR,STORAGE BAND,USD,107.26
+RS00470MO,"Red Hat Storage Capacity Expansion Pack for ODF and Ceph, Full Support (Capacity Expansion Pack, 10PB, Dedicated, Monthly)",MONTH,STORAGE BAND,USD,39150
+RV00078,"Red Hat Virtualization, Diagnostic Support (Socket-Pair, Dedicated, Yearly)",ANNUAL,SOCKET-PAIR,USD,906.4
+RV00078MO,"Red Hat Virtualization, Diagnostic Support (Socket-Pair, Dedicated, Monthly)",MONTH,SOCKET-PAIR,USD,82.5

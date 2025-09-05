@@ -11,6 +11,11 @@
                 {% endfor %}
             </select>
         </div>
+
+        <div class="mb-3">
+            <label for="productSearch" class="form-label">Buscar Producto</label>
+            <input type="text" id="productSearch" class="form-control" placeholder="Escribe para filtrar SKU o descripción...">
+        </div>
         <div class="mb-3">
             <label for="product_id" class="form-label">Producto</label>
             <select class="form-select" id="product_id" name="product_id" required>
@@ -30,4 +35,31 @@
         </div>
         <button type="submit" class="btn btn-primary">Guardar Registro</button>
     </form>
+
+<script>
+    // Se ejecuta cuando el contenido de la página está listo
+    document.addEventListener('DOMContentLoaded', function() {
+        // Obtenemos referencias al campo de búsqueda y a la lista de productos
+        const searchInput = document.getElementById('productSearch');
+        const productSelect = document.getElementById('product_id');
+        const options = Array.from(productSelect.options);
+
+        // Agregamos un evento que se dispara cada vez que escribes algo
+        searchInput.addEventListener('keyup', function(e) {
+            const searchText = e.target.value.toLowerCase();
+
+            // Vaciamos la lista para volver a llenarla con los resultados
+            productSelect.innerHTML = '';
+
+            // Recorremos todas las opciones originales
+            options.forEach(option => {
+                const optionText = option.textContent.toLowerCase();
+                // Si el texto de la opción incluye el texto de búsqueda, la mostramos
+                if (optionText.includes(searchText)) {
+                    productSelect.appendChild(option);
+                }
+            });
+        });
+    });
+</script>
 {% endblock %}
