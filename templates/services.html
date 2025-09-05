@@ -1,0 +1,55 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Gestionar Servicios</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Añadir Nuevo Servicio</h3>
+            <form method="POST" action="{{ url_for('services') }}">
+                <div class="mb-3">
+                    <label for="service_name" class="form-label">Nombre del Servicio</label>
+                    <input type="text" class="form-control" id="service_name" name="service_name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="service_type" class="form-label">Tipo de Servicio</label>
+                    <input type="text" class="form-control" id="service_type" name="service_type" placeholder="Ej: Solución de Backup, Plataforma Web...">
+                </div>
+                <button type="submit" class="btn btn-primary">Guardar Servicio</button>
+            </form>
+        </div>
+        <div class="col-md-8">
+            <h3>Lista de Servicios</h3>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Tipo</th>
+                        <th>Clientes Asignados</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for service in services %}
+                    <tr>
+                        <td>{{ service.name }}</td>
+                        <td>{{ service.service_type }}</td>
+                        <td>
+                            {% if service.clients %}
+                                {{ service.clients|map(attribute='name')|join(', ') }}
+                            {% else %}
+                                <span class="text-muted">Ninguno</span>
+                            {% endif %}
+                        </td>
+                        <td>
+                            <a href="{{ url_for('assign_service', service_id=service.id) }}" class="btn btn-secondary btn-sm">Asignar a Clientes</a>
+                        </td>
+                    </tr>
+                    {% else %}
+                    <tr>
+                        <td colspan="4" class="text-center">No hay servicios registrados.</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{% endblock %}
