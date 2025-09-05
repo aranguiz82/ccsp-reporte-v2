@@ -1,0 +1,26 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Gestionar Clientes</h1>
+    <div class="row">
+        <div class="col-md-4">
+            <h3>Añadir Nuevo Cliente</h3>
+            <form method="POST" action="{{ url_for('clients') }}">
+                <div class="mb-3">
+                    <label for="client_name" class="form-label">Nombre del Cliente</label>
+                    <input type="text" class="form-control" id="client_name" name="client_name" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Guardar Cliente</button>
+            </form>
+        </div>
+        <div class="col-md-8">
+            <h3>Lista de Clientes</h3>
+            <ul class="list-group">
+                {% for client in clients %}
+                    <li class="list-group-item">{{ client.name }}</li>
+                {% else %}
+                    <li class="list-group-item">No hay clientes registrados.</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+{% endblock %}

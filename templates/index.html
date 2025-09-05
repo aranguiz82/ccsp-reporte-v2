@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h1>Últimos Registros de Consumo</h1>
+        <a href="{{ url_for('consumption') }}" class="btn btn-primary">Añadir Nuevo Consumo</a>
+    </div>
+    
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Cliente</th>
+                <th>SKU Producto</th>
+                <th>Mes</th>
+                <th>Cantidad</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for record in consumptions %}
+            <tr>
+                <td>{{ record.client.name }}</td>
+                <td>{{ record.product.sku }}</td>
+                <td>{{ record.month }}</td>
+                <td>{{ record.quantity }}</td>
+            </tr>
+            {% else %}
+            <tr>
+                <td colspan="4" class="text-center">No hay registros de consumo todavía.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

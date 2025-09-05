@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Catálogo de Productos Red Hat</h1>
+    <table class="table table-striped table-sm">
+        <thead>
+            <tr>
+                <th>SKU</th>
+                <th>Descripción</th>
+                <th>Unidad</th>
+                <th>Precio de Lista</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for product in products %}
+            <tr>
+                <td>{{ product.sku }}</td>
+                <td>{{ product.description }}</td>
+                <td>{{ product.unit_of_measure }}</td>
+                <td>${{ "%.2f"|format(product.list_price) }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
